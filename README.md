@@ -7,6 +7,7 @@
 * Languages
   * [Assembly](#assembly)
   * [C](#c)
+  * [Java](#java)
 
 ## Languages
 
