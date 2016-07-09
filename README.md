@@ -20,3 +20,10 @@
 
 * [NCSA Mosaic](https://github.com/alandipert/ncsa-mosaic)
 * [Mozilla (the open sourced version of Netscape Navigator)](https://archive.mozilla.org/pub/mozilla/source/)
+
+### Java 
+* [Bad Fruit from Peel & Slice](https://github.com/jason-kerney/PeelAndSlice/blob/master/Java/java/src/com/spun/llewellyn/talks/legacycode/examples/BadFruit.java)  ( practice )
+* [Guilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)  ( practice )
+* [ChartSmart](https://github.com/tonytvo/coderetreat/tree/c89ebf3e92fff5a95fdc80d37e3a4a66cf877931/refactoring/chartsmart)  ( practice )
+* [triva](https://github.com/jbrains/trivia)  ( practice )
+* [Apache-Solr](https://github.com/apache/lucene-solr/tree/master/solr/core/src/java/org/apache/solr)  ( real )
