@@ -8,6 +8,7 @@
   * [Assembly](#assembly)
   * [C](#c)
   * [Java](#java)
+  * [C#](#CSharp)
 
 ## Languages
 
@@ -29,3 +30,9 @@
 * [ChartSmart](https://github.com/tonytvo/coderetreat/tree/c89ebf3e92fff5a95fdc80d37e3a4a66cf877931/refactoring/chartsmart)  ( practice )
 * [triva](https://github.com/jbrains/trivia)  ( practice )
 * [Apache-Solr](https://github.com/apache/lucene-solr/tree/master/solr/core/src/java/org/apache/solr)  ( real )
+
+### CSharp
+* [Guilded Rose](https://github.com/arlobelshee/GildedRose)  ( practice )
+* [Roslyn - C# compilation service](https://github.com/dotnet/roslyn)
+* [.Net Foundational Libraries](https://github.com/dotnet/corefx)
+* [.Net runtime (BCL, JIT compiler, GC)](https://github.com/dotnet/coreclr)
