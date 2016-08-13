@@ -1,8 +1,20 @@
 # Awesome Legacy Code
 
-> A curated list of legacy systems with publicly available source code
+> A curated list of resources about working with legacy code, along with legacy systems with publicly available source code
 
 ## Contents
+
+* Books 
+  * [Working Effectively With Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) by Michael Feathers
+  * [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by Martin Fowler
+  * [Refactoring to Patterns](https://industriallogic.com/xp/refactoring/) by Joshua Kerievsky
+  * [Code Complete](http://cc2e.com/) by Steve McConnell
+  * [TDD by Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) by Kent Beck
+  * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin
+  * [Your Code As A Crime Scene](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene) by Adam Tornhill
+  * [Beyond Legacy Code](https://pragprog.com/book/dblegacy/beyond-legacy-code) by David Bernstein
+  * [Mob Programming](https://leanpub.com/mobprogramming) by Woody Zuill and Kevin Meadows
+  * [99 Bottles of OOP](http://www.sandimetz.com/99bottles/) by Sandi Metz and Katrina Owen
 
 * Languages
   * [Assembly](#assembly)
