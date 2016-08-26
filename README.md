@@ -26,13 +26,13 @@
 ### Java 
 * [Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)
 * [Bad Fruit from Peel & Slice](https://github.com/jason-kerney/PeelAndSlice/blob/master/Java/java/src/com/spun/llewellyn/talks/legacycode/examples/BadFruit.java)  ( practice )
-* [Guilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)  ( practice )
+* [Guilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)  (practice)
 * [ChartSmart](https://github.com/tonytvo/coderetreat/tree/c89ebf3e92fff5a95fdc80d37e3a4a66cf877931/refactoring/chartsmart)  ( practice )
-* [triva](https://github.com/jbrains/trivia)  ( practice )
-* [Apache-Solr](https://github.com/apache/lucene-solr/tree/master/solr/core/src/java/org/apache/solr)  ( real )
+* [triva](https://github.com/jbrains/trivia)  (practice)
+* [Apache-Solr](https://github.com/apache/lucene-solr/tree/master/solr/core/src/java/org/apache/solr)  (real)
 
 ### CSharp
-* [Guilded Rose](https://github.com/arlobelshee/GildedRose)  ( practice )
+* [Guilded Rose](https://github.com/arlobelshee/GildedRose)  (practice)
 * [Roslyn - C# compilation service](https://github.com/dotnet/roslyn)
-* [.Net Foundational Libraries](https://github.com/dotnet/corefx)
-* [.Net runtime (BCL, JIT compiler, GC)](https://github.com/dotnet/coreclr)
+* [.NET Foundational Libraries](https://github.com/dotnet/corefx)
+* [.NET runtime (BCL, JIT compiler, GC)](https://github.com/dotnet/coreclr)
