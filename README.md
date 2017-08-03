@@ -34,7 +34,7 @@
 * [Apache-Solr](https://github.com/apache/lucene-solr/tree/master/solr/core/src/java/org/apache/solr)  (real)
 
 ### CSharp
-* [Guilded Rose](https://github.com/arlobelshee/GildedRose)  (practice)
+* [Gilded Rose](https://github.com/arlobelshee/GildedRose)  (practice)
 * [Roslyn - C# compilation service](https://github.com/dotnet/roslyn)
 * [.NET Foundational Libraries](https://github.com/dotnet/corefx)
 * [.NET runtime (BCL, JIT compiler, GC)](https://github.com/dotnet/coreclr)
