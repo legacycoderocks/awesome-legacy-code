@@ -8,6 +8,7 @@
   * [Assembly](#assembly)
   * [C](#c)
   * [Fortran](#fortran)
+  * [Pascal](#pascal)
   * [Java](#java)
   * [C#](#CSharp)
 
@@ -36,6 +37,10 @@
 ### Fortran
 
 * [Colossal Cave Adventure](https://jerz.setonhill.edu/intfic/colossal-cave-adventure-source-code/)
+
+### Pascal
+
+* [Adobe Photoshop 1.0.1](http://www.computerhistory.org/atchm/adobe-photoshop-source-code/)
 
 ### Java 
 * [Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)
