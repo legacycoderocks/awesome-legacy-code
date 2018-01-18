@@ -31,6 +31,7 @@
 * [Wolfenstein 3D](https://github.com/id-Software/)
 * [DOOM](https://github.com/id-Software/DOOM)
 * [Quake](https://github.com/id-Software/Quake)
+* [Microsoft Word for Windows 1.1a](http://www.computerhistory.org/atchm/microsoft-research-license-agreement-msword-v-1-1a/)
 
 ### Fortran
 
