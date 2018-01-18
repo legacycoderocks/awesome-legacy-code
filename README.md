@@ -26,6 +26,9 @@
 
 * [NCSA Mosaic](https://github.com/alandipert/ncsa-mosaic)
 * [Mozilla (the open sourced version of Netscape Navigator)](https://archive.mozilla.org/pub/mozilla/source/)
+* [Wolfenstein 3D](https://github.com/id-Software/)
+* [DOOM](https://github.com/id-Software/DOOM)
+* [Quake](https://github.com/id-Software/Quake)
 
 ### Fortran
 
