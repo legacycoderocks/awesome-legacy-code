@@ -35,6 +35,7 @@
 * [Microsoft Word for Windows 1.1a](http://www.computerhistory.org/atchm/microsoft-research-license-agreement-msword-v-1-1a/)
 * [Microsoft Windows File Manager (WinFile)](https://github.com/Microsoft/winfile)
 * [Various Unix systems archived at the Unix Heritage Society](http://minnie.tuhs.org/cgi-bin/utree.pl)
+* [qmail](https://github.com/schmonz/qmail)
 
 ### Fortran
 
