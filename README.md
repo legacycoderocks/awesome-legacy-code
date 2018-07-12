@@ -6,17 +6,19 @@
 
 * Languages
   * [Assembly](#assembly)
-  * [C](#c)
+  * [C and C++](#c)
   * [Fortran](#fortran)
   * [Pascal](#pascal)
   * [Java](#java)
   * [C#](#CSharp)
-
+  
 ## Languages
 
 ### Assembly
 
 * [Apollo-11 guidance computer](https://github.com/chrislgarry/Apollo-11)
+  * [The Ultimate Apollo Guidance Computer Talk](https://media.ccc.de/v/34c3-9064-the_ultimate_apollo_guidance_computer_talk)
+  * [Don Eyles walks through lunar module source code](https://hackaday.com/2016/07/05/don-eyles-walks-us-through-the-lunar-module-source-code/)
 * [PDP-10 Incompatible Timesharing System](https://github.com/PDP-10/its)
 * [Prince of Persia - Apple II version](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 * [MS-DOS - Versions 1.X and 2.0](https://github.com/BlastarIndia/msdos)
@@ -36,6 +38,7 @@
 * [Microsoft Windows File Manager (WinFile)](https://github.com/Microsoft/winfile)
 * [Various Unix systems archived at the Unix Heritage Society](http://minnie.tuhs.org/cgi-bin/utree.pl)
 * [qmail](https://github.com/schmonz/qmail)
+* [Zapcc](https://github.com/yrnkrn/zapcc)
 
 ### Fortran
 
@@ -48,7 +51,7 @@
 
 * [Adobe Photoshop 1.0.1](http://www.computerhistory.org/atchm/adobe-photoshop-source-code/)
 
-### Java 
+### Java
 * [Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)
 * [Bad Fruit from Peel & Slice](https://github.com/jason-kerney/PeelAndSlice/blob/master/Java/java/src/com/spun/llewellyn/talks/legacycode/examples/BadFruit.java)  ( practice )
 * [Guilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)  (practice)
