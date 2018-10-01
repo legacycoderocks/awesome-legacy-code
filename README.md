@@ -21,7 +21,7 @@
   * [Don Eyles walks through lunar module source code](https://hackaday.com/2016/07/05/don-eyles-walks-us-through-the-lunar-module-source-code/)
 * [PDP-10 Incompatible Timesharing System](https://github.com/PDP-10/its)
 * [Prince of Persia - Apple II version](https://github.com/jmechner/Prince-of-Persia-Apple-II)
-* [MS-DOS - Versions 1.X and 2.0](https://github.com/BlastarIndia/msdos)
+* [MS-DOS - Versions 1.X and 2.0](https://github.com/Microsoft/MS-DOS)
 * [Commodore Source Code (BASIC, DOS and KERNEL)](https://github.com/mist64/cbmsrc)
 * [Spacewar for PDP-1](https://gist.github.com/JonnieCache/4258114)
 * [QuickDraw and MacPoint](http://www.computerhistory.org/atchm/macpaint-and-quickdraw-source-code/)
