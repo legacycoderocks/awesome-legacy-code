@@ -9,6 +9,7 @@
   * [C and C++](#c)
   * [Fortran](#fortran)
   * [Pascal](#pascal)
+  * [Python](#python)
   * [Java](#java)
   * [C#](#CSharp)
   
@@ -52,6 +53,9 @@
 
 * [Adobe Photoshop 1.0.1](http://www.computerhistory.org/atchm/adobe-photoshop-source-code/)
 
+### Python
+
+* [James Webb Space Telescope Quick Look Application](https://github.com/spacetelescope/jwql) - there are many other awesome repositories to explore within the same [GitHub organization](https://github.com/spacetelescope)
 ### Java
 * [Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)
 * [Bad Fruit from Peel & Slice](https://github.com/jason-kerney/PeelAndSlice/blob/master/Java/java/src/com/spun/llewellyn/talks/legacycode/examples/BadFruit.java)  ( practice )
