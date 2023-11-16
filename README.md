@@ -12,6 +12,7 @@
   * [Python](#python)
   * [Java](#java)
   * [Scala](#scala)
+  * [JavaScript](#javascript)
   * [C#](#CSharp)
   
 ## Languages
@@ -70,7 +71,11 @@
 
 ### Scala
 
-* [https://github.com/twitter/the-algorithm](https://github.com/twitter/the-algorithm/tree/main/src/scala/com/twitter) (real)
+* [Twitter Algorithm](https://github.com/twitter/the-algorithm/tree/main/src/scala/com/twitter) (real)
+
+### JavaScript
+
+* [Habitica](https://github.com/HabitRPG/habitica) (real)
 
 ### CSharp
 
