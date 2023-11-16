@@ -76,6 +76,7 @@
 ### JavaScript
 
 * [Habitica](https://github.com/HabitRPG/habitica) (real)
+* [Etherpad](https://github.com/ether/etherpad-lite) (real)
 
 ### CSharp
 
