@@ -11,6 +11,7 @@
   * [Pascal](#pascal)
   * [Python](#python)
   * [Java](#java)
+  * [Scala](#scala)
   * [C#](#CSharp)
   
 ## Languages
@@ -56,15 +57,23 @@
 ### Python
 
 * [James Webb Space Telescope Quick Look Application](https://github.com/spacetelescope/jwql) - there are many other awesome repositories to explore within the same [GitHub organization](https://github.com/spacetelescope)
+
 ### Java
+
 * [Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)
-* [Bad Fruit from Peel & Slice](https://github.com/jason-kerney/PeelAndSlice.Java/blob/main/src/main/java/com/spun/llewellyn/talks/legacycode/examples/BadFruit.java)  ( practice )
+* [Bad Fruit from Peel & Slice](https://github.com/jason-kerney/PeelAndSlice.Java/blob/main/src/main/java/com/spun/llewellyn/talks/legacycode/examples/BadFruit.java)  (practice)
 * [Guilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)  (practice)
-* [ChartSmart](https://github.com/tonytvo/coderetreat/tree/c89ebf3e92fff5a95fdc80d37e3a4a66cf877931/refactoring/chartsmart)  ( practice )
+* [ChartSmart](https://github.com/tonytvo/coderetreat/tree/c89ebf3e92fff5a95fdc80d37e3a4a66cf877931/refactoring/chartsmart)  (practice)
 * [trivia](https://github.com/jbrains/trivia)  (practice)
 * [Apache-Solr](https://github.com/apache/lucene-solr/tree/master/solr/core/src/java/org/apache/solr)  (real)
+* [Twitter Search](https://github.com/twitter/the-algorithm/tree/main/src/java/com/twitter/search) (real)
+
+### Scala
+
+* [https://github.com/twitter/the-algorithm](https://github.com/twitter/the-algorithm/tree/main/src/scala/com/twitter) (real)
 
 ### CSharp
+
 * [Gilded Rose](https://github.com/arlobelshee/GildedRose)  (practice)
 * [Roslyn - C# compilation service](https://github.com/dotnet/roslyn)
 * [.NET Foundational Libraries](https://github.com/dotnet/corefx)
