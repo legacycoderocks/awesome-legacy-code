@@ -11,7 +11,10 @@
   * [Pascal](#pascal)
   * [Python](#python)
   * [Java](#java)
+  * [Scala](#scala)
+  * [JavaScript](#javascript)
   * [C#](#CSharp)
+* [Coding Katas (many languages)](#coding-katas-many-languages)
   
 ## Languages
 
@@ -56,16 +59,33 @@
 ### Python
 
 * [James Webb Space Telescope Quick Look Application](https://github.com/spacetelescope/jwql) - there are many other awesome repositories to explore within the same [GitHub organization](https://github.com/spacetelescope)
+
 ### Java
-* [Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)
-* [Bad Fruit from Peel & Slice](https://github.com/jason-kerney/PeelAndSlice.Java/blob/main/src/main/java/com/spun/llewellyn/talks/legacycode/examples/BadFruit.java)  ( practice )
-* [Guilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)  (practice)
-* [ChartSmart](https://github.com/tonytvo/coderetreat/tree/c89ebf3e92fff5a95fdc80d37e3a4a66cf877931/refactoring/chartsmart)  ( practice )
-* [trivia](https://github.com/jbrains/trivia)  (practice)
-* [Apache-Solr](https://github.com/apache/lucene-solr/tree/master/solr/core/src/java/org/apache/solr)  (real)
+
+* [Bad Fruit from Peel & Slice](https://github.com/jason-kerney/PeelAndSlice.Java/blob/main/src/main/java/com/spun/llewellyn/talks/legacycode/examples/BadFruit.java) (practice)
+* [ChartSmart](https://github.com/tonytvo/coderetreat/tree/c89ebf3e92fff5a95fdc80d37e3a4a66cf877931/refactoring/chartsmart)  (practice)
+* [Apache-Solr](https://github.com/apache/lucene-solr/tree/master/solr/core/src/java/org/apache/solr)
+* [Twitter Search](https://github.com/twitter/the-algorithm/tree/main/src/java/com/twitter/search)
+
+### Scala
+
+* [Twitter Algorithm](https://github.com/twitter/the-algorithm/tree/main/src/scala/com/twitter)
+
+### JavaScript
+
+* [Habitica](https://github.com/HabitRPG/habitica)
+* [Etherpad](https://github.com/ether/etherpad-lite)
+* [Ghost](https://github.com/TryGhost/Ghost)
 
 ### CSharp
-* [Gilded Rose](https://github.com/arlobelshee/GildedRose)  (practice)
+
 * [Roslyn - C# compilation service](https://github.com/dotnet/roslyn)
 * [.NET Foundational Libraries](https://github.com/dotnet/corefx)
 * [.NET runtime (BCL, JIT compiler, GC)](https://github.com/dotnet/coreclr)
+
+## Coding Katas (many languages)
+
+* [Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)
+* [Expense Report](https://github.com/christianhujer/expensereport)
+* [Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+* [trivia](https://github.com/jbrains/trivia)
