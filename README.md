@@ -46,8 +46,6 @@
 * [Zapcc](https://github.com/yrnkrn/zapcc)
 * [Winamp](https://github.com/WinampDesktop/winamp) - The source code of the iconic Windows media player from the 2000s.
 
-
-
 ### Fortran
 
 * [Colossal Cave Adventure](https://jerz.setonhill.edu/intfic/colossal-cave-adventure-source-code/)
