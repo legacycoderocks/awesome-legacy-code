@@ -44,6 +44,9 @@
 * [Various Unix systems archived at the Unix Heritage Society](http://minnie.tuhs.org/cgi-bin/utree.pl)
 * [notqmail](https://github.com/notqmail/notqmail) - The repo includes tags for various historical releases
 * [Zapcc](https://github.com/yrnkrn/zapcc)
+* [Winamp](https://github.com/WinampDesktop/winamp) - The source code of the iconic Windows media player from the 2000s.
+
+
 
 ### Fortran
 
