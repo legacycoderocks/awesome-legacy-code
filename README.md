@@ -89,3 +89,4 @@
 * [Expense Report](https://github.com/christianhujer/expensereport)
 * [Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 * [trivia](https://github.com/jbrains/trivia)
+* [Lift Pass Pricing](https://github.com/martinsson/Refactoring-Kata-Lift-Pass-Pricing)
